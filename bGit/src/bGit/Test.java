@@ -12,7 +12,12 @@ public class Test {
 		
 		System.out.println("xxxxxxxxxxxxxxxxxxxx");
 
+
 		System.out.println("aaaaaaaaaaaaaaa");
+
+		System.out.println('s');
+
+
 	}
 
 }
